@@ -7,8 +7,7 @@
 + Server: Tomcat v7
 + localhost:8080/MP1_Keypad_app
 
-> The primary function of the program is to convert the string to a 
-> sequence of digits
+The primary function of the program is to convert the string to a sequence of digits
 
 Simulating your phone keypad, the alphabets are mapped to digits as follows: 
 
