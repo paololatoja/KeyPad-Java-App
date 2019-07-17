@@ -27,6 +27,8 @@ should be integer and should not be higher or lower than 4 numbers. The
 telecommunications company would be stored on a cookie and converted 
 number will be on the session object
 
+Sample input: 0919-mVpD1rk
+
 Known issues: Produces nullPointerException on the first run because of 
 cookie[0].getValue() for some reason and also the cookie value does not 
 update immediately. It only gets the last cookie value
