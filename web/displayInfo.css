@@ -1,0 +1,77 @@
+/* CSS Resets */
+
+* {
+   margin: 0;
+   padding: 0;
+}
+
+
+html {
+   height: 100vh;
+   width: 100vw;
+   box-sizing: border-box;
+   -webkit-box-sizing: border-box;
+}
+
+ul {
+   list-style: none;
+}
+
+/* Trust ziel with this reset lol */
+input,
+textarea,
+select,
+button {
+   color: inherit;
+   font: inherit;
+   letter-spacing: inherit;
+}
+
+/* ------------------------------------------------ */
+
+body {
+   background-image: url(anime-scenery.jpg);
+   background-repeat: no-repeat;
+   background-size: 1540px 740px;
+   height: 87%;
+
+}
+
+#con1 {
+   background-color: lightsteelblue;
+   border-style: solid;
+   border-color: black;
+   border-radius: 15px;
+   border-width: 3px;
+   height: 52%;
+   width: 43%;
+   margin-top: 90px;
+   padding-top: 40px;
+   padding-left: 50px;
+   font-size: 1.5em;
+}
+
+
+.modal {
+   margin-top: 90px;
+}
+
+.modal-title {
+   text-align: center;
+   font-size: 20px;
+   font-weight: bold;
+}
+
+.modal-body {
+   margin-left: 20px;
+   font-size: 17px;
+}
+
+button {
+   margin-left: 180px;
+}
+
+#thanks {
+   text-align: center;
+   margin-right: 10px;
+}

@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:500&display=swap');
+
+body {
+   background-image: url(anime-scenery.jpg);
+   background-repeat: no-repeat;
+   background-size: 1540px 740px;
+   height: 100%;
+}
+
+
+form {
+   margin-top: 200px;
+   margin-left: 50px;
+   padding: 20px;
+   padding-top: 20px;
+   display: -webkit-box;
+   display: -ms-flexbox;
+   background-color: lightsteelblue;
+   width: 75%;
+   border-radius: 15px;
+   border-color: black;
+   border-style: solid;
+   border-width: 3px;
+}
+
+#submitButton {
+   margin-top: 20px;
+   margin-left: 20px;
+}
+
+.extraMargin {
+   margin-left: 20px;
+}
+
+
+div.col-6 {
+   padding: 0px;
+}
+
+
+h2 {
+   margin-bottom: 30px;
+   margin-left: 15px;
+   text-align: center;
+   font-family: 'Roboto', sans-serif;
+   color: rgb(26, 20, 20);
+}
